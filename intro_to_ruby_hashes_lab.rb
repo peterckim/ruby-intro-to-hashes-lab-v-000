@@ -1,5 +1,5 @@
 def new_hash
-
+  data_structure = {}
 end
 
 def actor
